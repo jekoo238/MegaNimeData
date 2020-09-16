@@ -1,1 +1,15 @@
 
+@popular
+https://meganime.me/popular&user=%s/data
+@new
+https://meganime.me/new-upload&user=%s/data
+@movie
+https://meganime.me/movie&user=%s/data&user=%s/data
+@best rating
+https://meganime.me/popular-rating&user=%s/data&user=%s/data
+@ongoing
+https://megabime.me/ongonig&user=%s/data&user=%s/data
+@serial
+https://meganime.me/serial&user=%s/data
+@search
+https://meganime.me/search=%s&user=%s
